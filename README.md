@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome%20to%20my%20github)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome%20to%20My%20Github&color=gradient)
