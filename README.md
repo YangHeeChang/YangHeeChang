@@ -5,6 +5,9 @@
 </div>
 <div>
 
+  🎓 Currently studying at Chungbuk National University  
+   - Major: Computer Science and Engineering
+   - Expected Graduation: Feb 2027
   ## Used
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
